@@ -16,5 +16,14 @@
       "price": 50,
       "createdAt": "2023-01-24T20:10:41.320Z"
     }
+    ,
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-01-24T20:00:41.320Z"
+    }
   ]
 }
