@@ -1,5 +1,7 @@
-# DT Money
-Projeto para controle financeiro onde temos como visualizar e cadastrar entradas, saídas e um cálculo do total do seu saldo. O projeto também conta com um filtro trazendo um resultado muito interessante quando queremos visualizar gastos e ganhos de uma categoria específica.
+<h1 align="center">
+  <img alt="" title="logo" src="src/assets/dt-money-logo.svg"  />
+</h1>
+<p>Projeto para controle financeiro onde temos como visualizar e cadastrar entradas, saídas e um cálculo do total do seu saldo. O projeto também conta com um filtro trazendo um resultado muito interessante quando queremos visualizar gastos e ganhos de uma categoria específica.</p>
 ## Construído com
 - [Vite](https://vitejs.dev/)
 - [ReactJS](https://reactjs.org/)
@@ -11,19 +13,31 @@ Projeto para controle financeiro onde temos como visualizar e cadastrar entradas
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [JSON Server](https://github.com/typicode/json-server)
 ## Primeiro Acesso
-### Clonando o projeto
+
+Clone o projeto
+
 ```bash
-$ git clone https://github.com/matheusfd3/dt-money.git
+  git clone https://github.com/matheusfd3/dt-money.git
 ```
-### Baixando as dependências
-Na pasta do projeto execute o comando abaixo com o npm.
+
+Entre no diretório do projeto
+
 ```bash
-$ npm install
+  cd dt-money
 ```
-### Rodando no localhost
+
+Instale as dependências
+
 ```bash
-$ npm run dev
+npm install
 ```
+
+Inicie o servidor
+
+```bash
+npm run dev
+```
+
 ## Screenshots
 ### Home
 ![App Screenshot](https://github.com/matheusfd3/dt-money/blob/main/.github/home.png)
