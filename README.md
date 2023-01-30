@@ -1,7 +1,6 @@
-![Logo](https://github.com/matheusfd3/dt-money/blob/main/src/assets/dt-money-logo.svg)
 # DT Money
 Projeto para controle financeiro onde temos como visualizar e cadastrar entradas, saídas e um cálculo do total do seu saldo. O projeto também conta com um filtro trazendo um resultado muito interessante quando queremos visualizar gastos e ganhos de uma categoria específica.
-## Built with
+## Construído com
 - [Vite](https://vitejs.dev/)
 - ReactJS
 - Typescript
